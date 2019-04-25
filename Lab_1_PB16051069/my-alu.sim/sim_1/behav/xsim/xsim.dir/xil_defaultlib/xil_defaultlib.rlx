@@ -1,0 +1,7 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+E:/Xilinx/my-alu/my-alu.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,xil_defaultlib,,,,,,
+E:/Xilinx/my-alu/my-alu.srcs/sim_1/new/Fibonacci.sv,1553257154,systemVerilog,,,,top,,xil_defaultlib,E:/Xilinx/Vivado/2017.4/data/xilinx_vip/include,,,,,
+E:/Xilinx/my-alu/my-alu.srcs/sources_1/new/myALU.sv,1553254048,systemVerilog,E:/Xilinx/my-alu/my-alu.srcs/sim_1/new/Fibonacci.sv,E:/Xilinx/my-alu/my-alu.srcs/sim_1/new/Fibonacci.sv,,$unit_1;ALU;alu,,xil_defaultlib,E:/Xilinx/Vivado/2017.4/data/xilinx_vip/include,,,,,

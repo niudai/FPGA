@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "E:/Xilinx/Vivado/2017.4/data/xilinx_vip/include" \
+"../../../../my-alu.srcs/sources_1/new/myALU.sv" \
+"../../../../my-alu.srcs/sim_1/new/Fibonacci.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
